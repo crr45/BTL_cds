@@ -70,9 +70,3 @@ BTL-CDS/
 
 Mọi đóng góp đều được chào đón! Vui lòng tạo issue hoặc pull request.
 
-## Giấy phép
-
-MIT License 
-=======
-# BTL_cds
-
