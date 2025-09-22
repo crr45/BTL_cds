@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Ứng dụng AI Nhận diện Biển số Xe và Thu phí Không dừng
 
 ## Mô tả
@@ -75,4 +75,4 @@ Mọi đóng góp đều được chào đón! Vui lòng tạo issue hoặc pull
 MIT License 
 =======
 # BTL_cds
->>>>>>> 1cb961cc4feaf67650105ae1e67da3ed62b97e26
+
