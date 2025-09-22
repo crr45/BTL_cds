@@ -1,5 +1,5 @@
 
-# Ứng dụng AI Nhận diện Biển số Xe và Thu phí Không dừng
+# Ứng Dụng AI Nhận Diện Biển Số Xe Và Thu phí Không Dừng
 
 ## Mô tả
 Ứng dụng Python sử dụng AI để tự động nhận diện biển số xe từ camera và thực hiện thu phí không dừng. Hệ thống bao gồm:
